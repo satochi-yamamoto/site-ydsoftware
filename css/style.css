@@ -600,3 +600,31 @@ section {
         font-size: 2rem;
     }
 }
+
+/* Privacy Modal Styles */
+#privacyModal {
+    font-family: var(--font-main);
+}
+
+#privacyModal h3 {
+    font-family: var(--font-heading);
+    color: var(--primary-color);
+}
+
+#privacyModal button {
+    font-family: var(--font-main);
+    transition: background-color 0.3s ease;
+}
+
+#privacyModal button:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+#acceptPrivacy:hover {
+    background-color: #2980b9 !important;
+}
+
+#rejectPrivacy:hover {
+    background-color: #7f8c8d !important;
+}

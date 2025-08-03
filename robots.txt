@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.ydsoftware.com.br/sitemap.xml
+
+# Disallow sensitive areas (if any in the future)
+Disallow: /admin/
+Disallow: /private/

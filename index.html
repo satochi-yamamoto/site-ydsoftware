@@ -5,8 +5,12 @@
    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alexandre Satochi Yamamoto - Especialista TI, Desenvolvimento de Software e Gestão</title>
-    <meta name="description" content="Profissional de TI e gestão com experiência em Desenvolvimento de Software e Infraestrutura">
+    <title>YDSoftware , Desenvolvimento de Software e Gestão</title>
+    <meta name="description" content="Alexandre Yamamoto -Profissional de TI e gestão com experiência em Desenvolvimento de Software e Infraestrutura">
+    <meta name="keywords" content="desenvolvimento software, gestão TI, infraestrutura, coordenador desenvolvimento, alexandre yamamoto">
+    <meta name="author" content="Alexandre Satochi Yamamoto">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.ydsoftware.com.br/">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -342,7 +346,7 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
                     <div class="project-overlay">
                         <h3>Gerador de Propostas MEI</h3>
                         <p>Site para criação de propostas</p>
-                        <a href="https://https://gerador-propostas-me-is.vercel.app//" class="btn btn-outline">Ver Detalhes</a>
+                        <a href="https://gerador-propostas-me-is.vercel.app/" class="btn btn-outline">Ver Detalhes</a>
                     </div>
                     </div>
             </div>
@@ -459,6 +463,8 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
                         <li><a href="#experience">Experiência</a></li>
                         <li><a href="#projects">Projetos</a></li>
                         <li><a href="#contact">Contato</a></li>
+                        <li><a href="privacy-policy.html">Política de Privacidade</a></li>
+                        <li><a href="terms-of-service.html">Termos de Uso</a></li>
                     </ul>
                 </div>
                 
@@ -468,6 +474,27 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
             </div>
         </div>
     </footer>
+
+    <!-- Modal de Privacidade -->
+    <div id="privacyModal" style="display: none; position: fixed; z-index: 10000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.4);">
+        <div style="background-color: #fefefe; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 80%; max-width: 500px; border-radius: 10px; position: relative;">
+            <h3 style="margin-top: 0; color: #333;">🍪 Política de Cookies e Privacidade</h3>
+            <p style="color: #666; line-height: 1.6;">
+                Este site utiliza cookies e tecnologias similares para melhorar sua experiência de navegação e exibir anúncios personalizados através do Google AdSense. 
+                Ao continuar navegando, você concorda com nossa 
+                <a href="privacy-policy.html" target="_blank" style="color: #3498db;">Política de Privacidade</a> e 
+                <a href="terms-of-service.html" target="_blank" style="color: #3498db;">Termos de Uso</a>.
+            </p>
+            <div style="text-align: center; margin-top: 20px;">
+                <button id="acceptPrivacy" style="background-color: #3498db; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">
+                    Aceitar Todos
+                </button>
+                <button id="rejectPrivacy" style="background-color: #95a5a6; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">
+                    Apenas Necessários
+                </button>
+            </div>
+        </div>
+    </div>
 
     <script src="js/script.js"></script>
     <script>
