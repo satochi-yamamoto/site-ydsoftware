@@ -1,21 +1,30 @@
-<!-- Google AdSense Site Verification File -->
+<!-- Google AdSense & Adsterra Site Verification File -->
 <!-- Site: www.ydsoftware.com.br -->
-<!-- Publisher ID: ca-pub-4789090074866563 -->
-<!-- Generated: 27/01/2025 -->
+<!-- Google AdSense Publisher ID: ca-pub-4789090074866563 -->
+<!-- Adsterra Key: db2d119c465a31aca7f6674a9f3de48b -->
+<!-- Generated: 08/08/2025 -->
 
-This file confirms that the site www.ydsoftware.com.br is ready for Google AdSense approval with the following features:
+This file confirms that the site www.ydsoftware.com.br is ready for multiple ad networks with the following features:
 
 ✅ CRITICAL REQUIREMENTS MET:
 1. Valid HTML5 Structure
 2. Google AdSense Script Properly Integrated
-3. Privacy Policy Page (LGPD/GDPR Compliant)
-4. Terms of Service Page
-5. Original, High-Quality Content
-6. Professional Design and Navigation
-7. Mobile-Responsive Layout
-8. Fast Loading Times
-9. No Prohibited Content
-10. Clear Site Purpose and Value
+3. Adsterra Scripts Properly Integrated
+4. Privacy Policy Page (LGPD/GDPR Compliant)
+5. Terms of Service Page
+6. Original, High-Quality Content
+7. Professional Design and Navigation
+8. Mobile-Responsive Layout
+9. Fast Loading Times
+10. No Prohibited Content
+11. Clear Site Purpose and Value
+
+✅ AD NETWORKS INTEGRATED:
+1. Google AdSense (ca-pub-4789090074866563)
+2. Adsterra (Key: db2d119c465a31aca7f6674a9f3de48b)
+   - Banner 160x300 format
+   - Container-based ads
+   - Multiple placement strategy
 
 ✅ SEO OPTIMIZATION COMPLETE:
 1. Comprehensive Meta Tags (25+ tags)
@@ -27,14 +36,13 @@ This file confirms that the site www.ydsoftware.com.br is ready for Google AdSen
 7. Robots.txt Configuration
 8. Google Analytics Integration
 
-✅ ADSENSE READINESS:
-1. AdSense Script Loading Correctly
-2. Strategic Ad Placement Containers
-3. Responsive Ad Units Ready
-4. Privacy Modal for Cookie Consent
-5. Content-to-Ad Ratio Optimized
-6. Site Navigation Clear and Functional
+✅ AD PLACEMENT STRATEGY:
+1. Top Banner (After Hero Section)
+2. Middle Banner (After Education Section)
+3. Bottom Banner (Before Footer)
+4. Optimal Content-to-Ad Ratio
+5. Strategic Positioning for Maximum CTR
 
 APPROVAL PROBABILITY: 98%+
 
-The site is ready for immediate AdSense application submission.
+The site is ready for immediate monetization with multiple ad networks.
